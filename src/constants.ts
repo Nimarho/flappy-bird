@@ -1,4 +1,4 @@
-export const INTERVAL = 15
+export const INTERVAL = 10
 export const CANVAS_WIDTH = 300
 export const CANVAS_HEIGHT = 450
 
