@@ -13,7 +13,7 @@ let birdY = 120;
 let birdYSpeed = 0;
 
 //Pipes
-let pipeGapBottomY = constants.PIPE_HEIGHT;
+let pipeGapBottomY = constants.PIPE_HEIGHT - constants.PIPE_HEIGHT/3;
 let pipeX = constants.CANVAS_WIDTH;
 
 //score
