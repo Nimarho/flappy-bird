@@ -1,4 +1,4 @@
-export const INTERVAL = 20
+export const INTERVAL = 15
 export const CANVAS_WIDTH = 300
 export const CANVAS_HEIGHT = 450
 
@@ -31,5 +31,5 @@ export const PIPE_GAP = CANVAS_HEIGHT/ 2 - HEIGHT_GROUND - 50
 
 //Movements
 export const JUMP__SPEED = -200
-export const FALL_SPEED = -500
+export const FALL_SPEED = -600
 export const SPEED = 2
